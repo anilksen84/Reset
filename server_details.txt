@@ -1,0 +1,16 @@
+Database connection for postgre sql
+
+        'hostname' => 'reset2020.cj6sy3lzo96i.ap-south-1.rds.amazonaws.com',
+	'username' => 'reset2020',
+	'password' => 'reset2020',
+	'database' => 'dbreset_2020',
+
+
+For Connect winsap 
+
+User : http://ec2-15-206-203-123.ap-south-1.compute.amazonaws.com/
+
+ec2-user
+
+
+Pem and ppk file attached
